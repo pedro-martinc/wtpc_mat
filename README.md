@@ -6,8 +6,8 @@ Se entrena un modelo de regresión con procesos gaussianos con cada uno de ellos
 
 ---
 
-El notebook `wtpc.ipynb` desarrolla la estrategia.
-Está previamente ejecutado para permitir la lectura directa del procedimiento y resultados.  
+El notebook `wtpc.ipynb` desarrolla la estrategia. Está previamente ejecutado para permitir la lectura directa del procedimiento y resultados.
+
 Los archivos CSV con los datos se encuentran comprimidos. Para usarlos, se decomprimen sin cambiar el nombre y se colocan en la raíz.
 
 ---
@@ -26,4 +26,4 @@ pip install scikit-learn
 
 Se recomienda que la ejecución se realice desde algún IDE común como **Visual Studio Code**, con extensiones de **Jupyter** (como *Jupyter*). Basta con abrir el notebook y ejecutar todo el código pulsando `Run All`.
 
-> ⚠️ **AVISO:** Ejecutar los experimentos para todos los kernels puede requerir aproximadamente **media hora** por notebook, dependiendo de la capacidad de cómputo del equipo empleado.
+> ⚠️ **AVISO:** Ejecutar el experimento para todos los kernels puede requerir aproximadamente **media hora**, dependiendo de la capacidad de cómputo del equipo empleado.
